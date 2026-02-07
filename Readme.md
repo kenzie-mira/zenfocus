@@ -27,4 +27,4 @@ During this project, I focused on "Thinking Before Coding." I tackled challenges
 3. Click "New Vibe" to refresh your perspective!
 
 ---
-*Built with ❤️ by [Your Name] | Miracle Codes*
+*Built with ❤️ by Miracle | Miracle Codes*
